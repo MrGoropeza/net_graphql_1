@@ -37,6 +37,7 @@ dotnet add API.Domain package Microsoft.Extensions.DependencyInjection
 dotnet add API.GraphQL package HotChocolate.AspNetCore
 dotnet add API.GraphQL package Microsoft.EntityFrameworkCore.Tools
 dotnet add API.GraphQL package HotChocolate.Data.EntityFramework
+dotnet add API.GraphQL package HotChocolate.Types.Analyzers
 dotnet add API.Persistence package Microsoft.EntityFrameworkCore.Sqlite
 ```
 
